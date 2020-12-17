@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cppPrimer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigactionTest">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/sigactionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigactionTest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigactionTest/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/sigactionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigactionTest/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcontainer">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/tcontainer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcontainer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcontainer/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/tcontainer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcontainer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode1022">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leetcode1022" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode1022"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode1022/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leetcode1022" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode1022/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet114">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet114" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet114"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet114/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet114" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet114/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet481">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet481" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet481"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet481/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet481" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet481/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet373">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet373" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet373"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet373/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet373" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet373/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet141">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet141" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet141"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet141/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet141" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet141/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet6">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet6/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet6/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet101">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet101"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet101/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet101/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode892">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leetcode892" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode892"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode892/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leetcode892" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode892/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str1">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/str1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 str1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str1/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/str1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 str1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_7_5">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_7_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_7_5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_7_5/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_7_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_7_5/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_5_4">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_5_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_5_4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_5_4/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_5_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_5_4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="twoSum">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="twoSum/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="smartptrs">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/smartptrs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 smartptrs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="smartptrs/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/smartptrs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 smartptrs/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openglTest">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/openglTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 openglTest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openglTest/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/openglTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 openglTest/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sizof">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/sizof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sizof"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sizof/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/sizof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sizof/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="setops">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/setops" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 setops"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="setops/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/setops" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 setops/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet438">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet438" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet438"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet438/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet438" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet438/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrayPtr">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/arrayPtr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrayPtr"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrayPtr/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/arrayPtr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrayPtr/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str2">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/str2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 str2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str2/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/str2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 str2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strfile">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/strfile" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 strfile"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strfile/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/strfile" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 strfile/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet501">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet501"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet501/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet501/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_5_6">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_5_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_5_6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_5_6/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_5_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_5_6/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_8_2">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_8_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_8_2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mianshi_8_2/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/mianshi_8_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 mianshi_8_2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppPrimer">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cppPrimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppPrimer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppPrimer/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cppPrimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppPrimer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tvfm">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_tvfm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tvfm"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tvfm/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_tvfm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tvfm/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taoTest">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/taoTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 taoTest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taoTest/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/taoTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 taoTest/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet7">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet7"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet7/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet7/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet100">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet100" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet100"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet100/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet100" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet100/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet376">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet376" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet376"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leet376/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/leet376" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 leet376/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tmp">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_tmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tmp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tmp/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_tmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tmp/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_manyfrnd">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_manyfrnd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_manyfrnd"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_manyfrnd/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/cpp_manyfrnd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_manyfrnd/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vect2">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/vect2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 vect2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vect2/fast">
+				<Option output="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/vect2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.1.0/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include/GLFW"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 vect2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/shaojun/CLionProjects/cppPrimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/Student.cpp">
+			<Option target="cppPrimer"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/arrayPtr.cpp">
+			<Option target="arrayPtr"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/manyfrnd.cpp">
+			<Option target="cpp_manyfrnd"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/setops.cpp">
+			<Option target="setops"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/sizeofPrinter.cpp">
+			<Option target="sizof"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/smartptrs.cpp">
+			<Option target="smartptrs"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/str1.cpp">
+			<Option target="str1"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/str2.cpp">
+			<Option target="str2"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/strfile.cpp">
+			<Option target="strfile"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/tmp2tmp.cpp">
+			<Option target="cpp_tmp"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/tvfmMain.cpp">
+			<Option target="cpp_tvfm"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/twoSum.cpp">
+			<Option target="twoSum"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/cpp/vect2.cpp">
+			<Option target="vect2"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/csignal/sigationTest.cpp">
+			<Option target="sigactionTest"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/head/studenti.h">
+			<Option target="cppPrimer"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/head/tvfm.h">
+			<Option target="cpp_tvfm"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/100_sametree.cpp">
+			<Option target="leet100"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/101_symmetrictree.cpp">
+			<Option target="leet101"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode1022.cpp">
+			<Option target="leetcode1022"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode114.cpp">
+			<Option target="leet114"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode141.cpp">
+			<Option target="leet141"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode373.cpp">
+			<Option target="leet373"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode376.cpp">
+			<Option target="leet376"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode438.cpp">
+			<Option target="leet438"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode481.cpp">
+			<Option target="leet481"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode501.cpp">
+			<Option target="leet501"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode6.cpp">
+			<Option target="leet6"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode7.cpp">
+			<Option target="leet7"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/leetcode/leetcode892.cpp">
+			<Option target="leetcode892"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/main.cpp">
+			<Option target="cppPrimer"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/mianshi/mianshi_5_4.cpp">
+			<Option target="mianshi_5_4"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/mianshi/mianshi_5_6.cpp">
+			<Option target="mianshi_5_6"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/mianshi/mianshi_7_5.cpp">
+			<Option target="mianshi_7_5"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/mianshi/ms_8_2.cpp">
+			<Option target="mianshi_8_2"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/mianshi/taoTest.cpp">
+			<Option target="taoTest"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/opengl/LoadShaders.cpp">
+			<Option target="openglTest"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/opengl/LoadShaders.h">
+			<Option target="openglTest"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/opengl/openglTest.cpp">
+			<Option target="openglTest"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/struct/testTcontainer.cpp">
+			<Option target="tcontainer"/>
+		</Unit>
+		<Unit filename="/Users/shaojun/CLionProjects/cppPrimer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
